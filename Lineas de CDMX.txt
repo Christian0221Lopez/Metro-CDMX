@@ -1,0 +1,97 @@
+195 nodos
+1 Observatorio
+2 Tacubaya
+3 Juanacatlan
+4 Chapultepec
+5 Sevilla
+6 Insurgentes
+7 Cuauhtemoc
+8 Balderas
+9 Salto de agua
+10 Isabel la catolica
+11 Pino suarez
+12 Merced
+13 Candelaria
+14 San lazaro
+15 Moctezuma
+16 Balbuena
+17 Boulevard puerto aereo
+18 Gomez farias
+19 Zaragoza
+20 Pantitlan
+Linea 2
+21 Cuatro caminos
+22 Panteones
+23 Tacuba
+24 Cuitlahuac
+25 Popotla
+26 Colegio militar
+27 Normal
+28 San cosme
+29 Revolucion
+30 Hidalgo
+31 Bellas artes
+32 Allende
+33 Zocalo
+34 Pino suarez
+35 San antonio abad
+36 Chabacano
+37 Viaducto
+38 Xola
+39 Villa de cortes
+40 Portales
+41 Ermita
+42 General anaya
+43 Tasqueña
+Linea 3
+44 Indios verdes
+45 Deportivo 18 de marzo
+46 Portero
+47 La raza
+48 Tlatelolco
+49 Guerrero
+50 Hidalgo
+51 Juarez
+52 Balderas
+53 Poder judicial
+54 Hospital general
+55 Centro medico
+56 Etiopia
+57 Eugenia
+58 Divicion del norte
+59 Zapata
+60 Coyoacan
+61 Viveros
+62 Miguel angel de quevedo
+63 Copilco
+64 Universidad
+Linea 4
+65 Martin carrera
+66 Talisman
+67 Bondojito
+68 Consulado
+69 Canal del norte
+70 Morelos
+71 Candelaria
+72 Fray servando
+73 Jamaica
+74 Santa anita
+Linea 5
+75 Pantitlan
+76 Hangares
+77 Terminal aerea
+78 Oceania
+79 Aragon
+80 Eduardo molina
+81 Consulado
+82 Valle gomez
+83 Misterios
+84 La raza
+85 Autobuses del norte
+86 Instituto de petroleo
+87 Politecnico
+Linea 6
+88 El rosario
+89 Tezozomoc
+90 Uam Azcapotzalco
+91 
